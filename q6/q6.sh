@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mapfile -t cusswords < cuss-words.txt
 
 
